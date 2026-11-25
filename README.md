@@ -6,7 +6,7 @@ Principal component analysis on 400 face photos: compress each 64×64 image to 2
 
 ## Results
 
-Twenty components keep 76.3% of the variance in the faces. The largest reconstruction error (L2 norm) is 6.25 with 20 components and 2.10 with 150.
+Twenty components keep 76.3% of the variance in the faces. The largest reconstruction error (L2 norm) is 6.25 with 20 components and 2.14 with 150.
 
 ## Run it
 
